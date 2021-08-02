@@ -2,8 +2,8 @@
 
 :root {
   --color-white: #f3f3f3;
-  --color-darkblue: #37af65;
-  --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+  --color-darkblue: #ff0000;
+  --color-darkblue-alpha: rgba(80, 27, 27, 0.8);
   --color-green: #37af65;
 }
 
